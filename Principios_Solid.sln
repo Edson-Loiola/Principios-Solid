@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Inte
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Fraco_Acoplamento", "Interface_Fraco_Acoplamento\Interface_Fraco_Acoplamento.csproj", "{7D0582E8-5EAE-4881-BBC3-EC779C588961}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{754B2574-8AB8-4731-84BC-C1CB5DEBDE95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{754B2574-8AB8-4731-84BC-C1CB5DEBDE95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultMemberInterfaces", "DefaultMemberInterfaces\DefaultMemberInterfaces.csproj", "{5ACD17FE-9162-412A-BAEF-7C61A4102D1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{754B2574-8AB8-4731-84BC-C1CB5DEBDE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{754B2574-8AB8-4731-84BC-C1CB5DEBDE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{754B2574-8AB8-4731-84BC-C1CB5DEBDE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACD17FE-9162-412A-BAEF-7C61A4102D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACD17FE-9162-412A-BAEF-7C61A4102D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACD17FE-9162-412A-BAEF-7C61A4102D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACD17FE-9162-412A-BAEF-7C61A4102D1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

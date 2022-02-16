@@ -10,9 +10,7 @@ namespace DefaultMemberInterfaces
             //Para usar aquele metodo criado dentro da interface
             ILogger logger = new ConsoleLogger();
             logger.Erro("erro");
-
           
-;
         }
     }
 }

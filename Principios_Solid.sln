@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{DEEDD6B9-C523-42F5-9F33-37493D7255AA}"
 EndProject
@@ -47,7 +47,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exemplos_SOLID", "Exemplos_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principio_SRP", "Principio_SRP\Principio_SRP.csproj", "{1F39217F-BC20-4789-91A3-6E33C566A93C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP", "Principio_OCP\Principio_OCP.csproj", "{653AF80D-DBE4-492E-8DA6-33A199DA3DD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Principio_OCP", "Principio_OCP\Principio_OCP.csproj", "{653AF80D-DBE4-492E-8DA6-33A199DA3DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principio_OCP_2", "Principio_OCP_2\Principio_OCP_2.csproj", "{E4EE504B-1999-4274-8800-CCB858342729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -143,6 +145,10 @@ Global
 		{653AF80D-DBE4-492E-8DA6-33A199DA3DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653AF80D-DBE4-492E-8DA6-33A199DA3DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653AF80D-DBE4-492E-8DA6-33A199DA3DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EE504B-1999-4274-8800-CCB858342729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EE504B-1999-4274-8800-CCB858342729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EE504B-1999-4274-8800-CCB858342729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EE504B-1999-4274-8800-CCB858342729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{1F39217F-BC20-4789-91A3-6E33C566A93C} = {F9D90A04-0EB5-4DA1-BD12-73409991A3E7}
 		{653AF80D-DBE4-492E-8DA6-33A199DA3DD3} = {F9D90A04-0EB5-4DA1-BD12-73409991A3E7}
+		{E4EE504B-1999-4274-8800-CCB858342729} = {F9D90A04-0EB5-4DA1-BD12-73409991A3E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6FB15348-8D12-407E-BADB-6318FEC508E0}
